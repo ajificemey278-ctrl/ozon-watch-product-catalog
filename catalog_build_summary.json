@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-21T21:51:27+08:00",
+  "discovered_sku_count": 822,
+  "catalog_ready_count": 820,
+  "excluded_count": 2,
+  "excluded": [
+    {
+      "catalog_key": "audemars-piguet-00738",
+      "source_sku_id": "00738",
+      "brand": "Audemars Piguet",
+      "brand_slug": "audemars-piguet",
+      "model": "WT-00738",
+      "color": [
+        "синий",
+        "голубой"
+      ],
+      "offer_id": "WT-AUDEMARS-PIGUET-00738",
+      "template_path": "products/audemars-piguet/00738/ozon_listing_template.json",
+      "image_urls": [
+        "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/audemars-piguet/00738/2.jpg",
+        "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/audemars-piguet/00738/3.jpg",
+        "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/audemars-piguet/00738/4.jpg",
+        "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/audemars-piguet/00738/5.jpg",
+        "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/audemars-piguet/00738/6.jpg"
+      ],
+      "status": "blocked",
+      "validation_hash": "f13f2b568d77b5f7f0d09a372609375193c761f837a86e50cf404a8ef94a59f7"
+    },
+    {
+      "catalog_key": "cartier-00190",
+      "source_sku_id": "00190",
+      "brand": "Cartier",
+      "brand_slug": "cartier",
+      "model": "WT-00190",
+      "color": [],
+      "offer_id": "WT-CARTIER-00190",
+      "template_path": "products/cartier/00190/ozon_listing_template.json",
+      "image_urls": [
+        "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00190/3.jpg",
+        "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00190/4.jpg",
+        "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00190/5.jpg",
+        "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00190/6.jpg",
+        "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00190/7.jpg",
+        "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00190/8.jpg",
+        "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00190/9.jpg"
+      ],
+      "status": "blocked",
+      "validation_hash": "5b46247e23a222c43ea515a95d925528929d2485b0b4882dcd1d1e6fb44c0179"
+    }
+  ],
+  "contains_commercial_values": false
+}
