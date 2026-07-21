@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "rolex-00269",
+  "source_sku_id": "00269",
+  "status": "catalog_ready",
+  "allowed_to_create": false,
+  "activation_required": true,
+  "single_sku_valid": true,
+  "required_attribute_ids": [
+    "8229",
+    "85",
+    "9048",
+    "9163"
+  ],
+  "required_attributes_complete": true,
+  "image_count": 6,
+  "main_image_valid": true,
+  "all_images_decodable": true,
+  "public_urls_expected": true,
+  "public_urls_verified": false,
+  "errors": [],
+  "validation_hash": "b604b3374578a6710fb919bc54c0febe7cb0aa842a2f917e0af1c00a6d296d22"
+}
