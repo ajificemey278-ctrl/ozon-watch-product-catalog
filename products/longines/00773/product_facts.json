@@ -1,0 +1,235 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "longines-00773",
+  "source_sku_id": "00773",
+  "candidate_sku_key": "longines-00773",
+  "single_sku_lock": {
+    "model": "WT-00773",
+    "color": [
+      "золотистый"
+    ],
+    "quantity": 1,
+    "status": "confirmed"
+  },
+  "source_brand_folder": "LONGINES浪琴",
+  "offer_id": "WT-LONGINES-00773",
+  "facts": {
+    "model": {
+      "value": "WT-00773",
+      "status": "estimated",
+      "evidence": "description_or_catalog_sku"
+    },
+    "color": {
+      "value": [
+        "золотистый"
+      ],
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "gender": {
+      "value": [
+        "женские"
+      ],
+      "dictionary_value_ids": [
+        22881
+      ],
+      "status": "confirmed",
+      "evidence": "description_or_diameter"
+    },
+    "movement": {
+      "value": "кварцевый",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "display": {
+      "value": "аналоговый",
+      "status": "confirmed",
+      "evidence": "description_or_watch_default"
+    },
+    "dial": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "case": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "strap": {
+      "value": "нержавеющая сталь",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "glass": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "water_resistance": {
+      "value": "21 M",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "case_diameter_mm": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "quantity": {
+      "value": 1,
+      "status": "confirmed",
+      "evidence": "one_sku_one_watch_contract"
+    },
+    "package_contents": {
+      "value": "часы и комплект упаковки",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "organization_brand": {
+      "value": "LONGINES",
+      "status": "confirmed",
+      "evidence": "source_brand_folder"
+    }
+  },
+  "estimated_facts": {
+    "packaged_weight_g": {
+      "value": 900,
+      "status": "estimated",
+      "estimate_basis": "user watch catalog default 600-900 g; conservative upper bound",
+      "confidence": "medium",
+      "risk_note": "not buyer-visible marketing copy",
+      "confirmation_required": true
+    },
+    "package_dimensions_cm": {
+      "value": {
+        "length": 30,
+        "width": 15,
+        "height": 10
+      },
+      "status": "estimated",
+      "estimate_basis": "watch with retail packaging",
+      "confidence": "medium",
+      "risk_note": "must be rechecked if packaging changes",
+      "confirmation_required": true
+    },
+    "domestic_shipping_cny": {
+      "value": 0,
+      "status": "estimated",
+      "estimate_basis": "user inventory rule",
+      "confidence": "high",
+      "risk_note": "internal calculation only",
+      "confirmation_required": false
+    }
+  },
+  "unknown_fields": [
+    "dial",
+    "case",
+    "glass",
+    "case_diameter_mm"
+  ],
+  "evidence": {
+    "description_sha256": "bebfe4a04857fc7857cbddf9d121c1f9831f6e3ea6f29eb3c5684a1387690b12",
+    "images": [
+      {
+        "file": "1.jpg",
+        "sha256": "f0f26a0e486bea7b23de248f6b4fadbe0b2d66b74c8c53987e09f528cc219e19",
+        "byte_size": 706964,
+        "width": 1440,
+        "height": 1920,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": true,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/longines/00773/1.jpg"
+      },
+      {
+        "file": "2.jpg",
+        "sha256": "afa9b710c0a4b1246fc4a79e417a4f29fcbbfa9316beaec21beaacf51e52c810",
+        "byte_size": 722748,
+        "width": 1440,
+        "height": 1920,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/longines/00773/2.jpg"
+      },
+      {
+        "file": "3.jpg",
+        "sha256": "417fc7cc369c3fa238f7ce44c026bffc152e8e1f412d823bc03740257ea42ecd",
+        "byte_size": 714313,
+        "width": 1440,
+        "height": 1920,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/longines/00773/3.jpg"
+      },
+      {
+        "file": "4.jpg",
+        "sha256": "f5b3c7febc9da266fa01b9ad78430f3e9deee40941215ad54d7f740c6bcbad5b",
+        "byte_size": 756949,
+        "width": 1440,
+        "height": 1920,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/longines/00773/4.jpg"
+      },
+      {
+        "file": "5.jpg",
+        "sha256": "f06bba5c1cff4cc6739cb521177fab1e9c90b871dd56eac38b2a7982c5dcbb91",
+        "byte_size": 717651,
+        "width": 1440,
+        "height": 1920,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/longines/00773/5.jpg"
+      },
+      {
+        "file": "6.jpg",
+        "sha256": "4d18068b40eb303cb98feb04c13ae2fac7e9602fe6a07e521a8782cc1b36f72d",
+        "byte_size": 733245,
+        "width": 1440,
+        "height": 1920,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/longines/00773/6.jpg"
+      },
+      {
+        "file": "7.jpg",
+        "sha256": "21e551c76c83f6e1424f1b664d879c429fed7a17af471fbdd6b1745a27b84aaa",
+        "byte_size": 763132,
+        "width": 1440,
+        "height": 1920,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/longines/00773/7.jpg"
+      },
+      {
+        "file": "8.jpg",
+        "sha256": "77b2b6ee2bd16b6e9449e54ee17f371a434ab91f68d4668a446e00154482b337",
+        "byte_size": 777457,
+        "width": 1440,
+        "height": 1920,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/longines/00773/8.jpg"
+      },
+      {
+        "file": "9.jpg",
+        "sha256": "8373af67eb9e063bc8d6fc7e6aa2559a86a9198191c8894d64745fae535ed66d",
+        "byte_size": 693633,
+        "width": 1440,
+        "height": 1920,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/longines/00773/9.jpg"
+      }
+    ]
+  }
+}

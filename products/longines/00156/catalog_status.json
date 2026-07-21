@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "longines-00156",
+  "source_sku_id": "00156",
+  "status": "catalog_ready",
+  "allowed_to_create": false,
+  "activation_required": true,
+  "single_sku_valid": true,
+  "required_attribute_ids": [
+    "8229",
+    "85",
+    "9048",
+    "9163"
+  ],
+  "required_attributes_complete": true,
+  "image_count": 9,
+  "main_image_valid": true,
+  "all_images_decodable": true,
+  "public_urls_expected": true,
+  "public_urls_verified": false,
+  "errors": [],
+  "validation_hash": "99e324fdb3dac689e7a42cbdfd18e82b7273b15044eabb23212ecc209ac7936b"
+}
