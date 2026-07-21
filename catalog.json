@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "repository": "ajificemey278-ctrl/ozon-watch-product-catalog",
   "status": "catalog_ready",
-  "generated_at": "2026-07-21T21:51:27+08:00",
+  "generated_at": "2026-07-21T21:59:56+08:00",
   "product_count": 820,
   "products": [
     {
@@ -12,7 +12,6 @@
       "brand_slug": "audemars-piguet",
       "model": "WT-00739",
       "color": [
-        "розовый и желтый",
         "розовый и желтый"
       ],
       "offer_id": "WT-AUDEMARS-PIGUET-00739",
@@ -26,7 +25,7 @@
         "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/audemars-piguet/00739/6.jpg"
       ],
       "status": "catalog_ready",
-      "validation_hash": "e35914f996c9ccf0af0b4a91142831f0497a3424eaa44b7ba7de4143709ef874"
+      "validation_hash": "ed5b7b4a83fc2f979a5c27e187c128926719372ef3e5cae62d9dff25d60b627b"
     },
     {
       "catalog_key": "audemars-piguet-00740",
@@ -545,7 +544,6 @@
       "brand_slug": "audemars-piguet",
       "model": "WT-00871",
       "color": [
-        "розовый и желтый",
         "розовый и желтый"
       ],
       "offer_id": "WT-AUDEMARS-PIGUET-00871",
@@ -559,7 +557,7 @@
         "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/audemars-piguet/00871/6.jpg"
       ],
       "status": "catalog_ready",
-      "validation_hash": "2c617ba80742f0b7d9908d8abc5aace652856e8debe68bb39492f9907b3a8cb7"
+      "validation_hash": "6ea7f0f093d719473ec011e4ed5d0417c6be22ecc16f7c48ae7bfddea606beb1"
     },
     {
       "catalog_key": "audemars-piguet-00872",
@@ -19061,5 +19059,5 @@
     }
   ],
   "excluded_product_count": 2,
-  "catalog_sha256": "9cac351a71155ed4658ca1e02ceadd219699fa44d29887917aa8ab2f4ce3c7c9"
+  "catalog_sha256": "f28cf7cf9adb883241a1565ee742945a6b6e32f2d8a76745c0eb033b5b73d1a3"
 }
