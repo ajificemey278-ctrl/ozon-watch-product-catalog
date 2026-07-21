@@ -1,0 +1,210 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "omega-00421",
+  "source_sku_id": "00421",
+  "candidate_sku_key": "omega-00421",
+  "single_sku_lock": {
+    "model": "ETA-W200",
+    "color": [],
+    "quantity": 1,
+    "status": "confirmed"
+  },
+  "source_brand_folder": "OMEGA欧米茄",
+  "offer_id": "WT-OMEGA-00421",
+  "facts": {
+    "model": {
+      "value": "ETA-W200",
+      "status": "confirmed",
+      "evidence": "description_or_catalog_sku"
+    },
+    "color": {
+      "value": [],
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "gender": {
+      "value": [
+        "мужские"
+      ],
+      "dictionary_value_ids": [
+        22880
+      ],
+      "status": "confirmed",
+      "evidence": "description_or_diameter"
+    },
+    "movement": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "display": {
+      "value": "аналоговый",
+      "status": "estimated",
+      "evidence": "description_or_watch_default"
+    },
+    "dial": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "case": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "strap": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "glass": {
+      "value": "сапфировое",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "water_resistance": {
+      "value": "5 M",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "case_diameter_mm": {
+      "value": 39.5,
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "quantity": {
+      "value": 1,
+      "status": "confirmed",
+      "evidence": "one_sku_one_watch_contract"
+    },
+    "package_contents": {
+      "value": "часы и комплект упаковки",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "organization_brand": {
+      "value": "OMEGA",
+      "status": "confirmed",
+      "evidence": "source_brand_folder"
+    }
+  },
+  "estimated_facts": {
+    "packaged_weight_g": {
+      "value": 900,
+      "status": "estimated",
+      "estimate_basis": "user watch catalog default 600-900 g; conservative upper bound",
+      "confidence": "medium",
+      "risk_note": "not buyer-visible marketing copy",
+      "confirmation_required": true
+    },
+    "package_dimensions_cm": {
+      "value": {
+        "length": 30,
+        "width": 15,
+        "height": 10
+      },
+      "status": "estimated",
+      "estimate_basis": "watch with retail packaging",
+      "confidence": "medium",
+      "risk_note": "must be rechecked if packaging changes",
+      "confirmation_required": true
+    },
+    "domestic_shipping_cny": {
+      "value": 0,
+      "status": "estimated",
+      "estimate_basis": "user inventory rule",
+      "confidence": "high",
+      "risk_note": "internal calculation only",
+      "confirmation_required": false
+    }
+  },
+  "unknown_fields": [
+    "color",
+    "movement",
+    "dial",
+    "case",
+    "strap"
+  ],
+  "evidence": {
+    "description_sha256": "2e9119c155c65368b39c33ed334c3864d65e86025920808ff4fb64e1dad94e93",
+    "images": [
+      {
+        "file": "1.jpg",
+        "sha256": "4a24db6b635b246af0c6ce13cb6465ae4281abae2f72a01d2490fc517696a0b6",
+        "byte_size": 381747,
+        "width": 1242,
+        "height": 2208,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": true,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/1.jpg"
+      },
+      {
+        "file": "2.jpg",
+        "sha256": "1fa221e0e730e44962ec4e54e574274ecebe3cf518683c6c288aefefdaafe74e",
+        "byte_size": 429749,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/2.jpg"
+      },
+      {
+        "file": "3.jpg",
+        "sha256": "dae1696fcd8872ddee9b96e48e7f3a146a5db50d73fca050e51e869d85aac92f",
+        "byte_size": 350435,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/3.jpg"
+      },
+      {
+        "file": "4.jpg",
+        "sha256": "66707f1d56786c949717bdfb1ff1c1ed3b77d5c08d0d40fae4fabc050f01b222",
+        "byte_size": 385246,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/4.jpg"
+      },
+      {
+        "file": "5.jpg",
+        "sha256": "fd01aa27cb284de00fc6714592e25a5af0318d314c5e0f52bb50558527d57268",
+        "byte_size": 364212,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/5.jpg"
+      },
+      {
+        "file": "6.jpg",
+        "sha256": "8011a016d5d9cf6af2051a2a381c7a6de525898bb154fe8d6725f8c4be44bb15",
+        "byte_size": 310636,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/6.jpg"
+      },
+      {
+        "file": "7.jpg",
+        "sha256": "551c00377ef70c97ed0f886e6c9be970bf217031571a1f4a7bab552e65ea0447",
+        "byte_size": 340565,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/7.jpg"
+      }
+    ]
+  }
+}

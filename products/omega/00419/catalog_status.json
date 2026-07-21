@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "omega-00419",
+  "source_sku_id": "00419",
+  "status": "catalog_ready",
+  "allowed_to_create": false,
+  "activation_required": true,
+  "single_sku_valid": true,
+  "required_attribute_ids": [
+    "8229",
+    "85",
+    "9048",
+    "9163"
+  ],
+  "required_attributes_complete": true,
+  "image_count": 8,
+  "main_image_valid": true,
+  "all_images_decodable": true,
+  "public_urls_expected": true,
+  "public_urls_verified": false,
+  "errors": [],
+  "validation_hash": "c4b6fbf77a465d574ef40d63002b3e0a415f3dc9c082bf0228f5c0a404d40a73"
+}

@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "input_mode": "catalog_template",
+  "status": "catalog_ready",
+  "allowed_to_create": false,
+  "activation_required": true,
+  "catalog_key": "omega-00421",
+  "source_sku_id": "00421",
+  "offer_id": "WT-OMEGA-00421",
+  "category": {
+    "description_category_id": 17027904,
+    "type_id": 91758,
+    "type_name_ru": "Наручные часы"
+  },
+  "content": {
+    "title_ru": "Наручные часы OMEGA, ETA-W200, мужские",
+    "short_description_ru": "Наручные часы OMEGA модели ETA-W200 для повседневных и деловых образов. Формат отображения времени: аналоговый. Диаметр корпуса: 39.5 мм.",
+    "description_ru": "Наручные часы OMEGA модели ETA-W200 для повседневных и деловых образов. Формат отображения времени: аналоговый. Диаметр корпуса: 39.5 мм. Стекло: сапфировое. Водозащита по данным поставщика: 5 M. Комплектация: часы и комплект упаковки.",
+    "bullet_points_ru": [
+      "Выразительный дизайн модели ETA-W200",
+      "Подходит для: мужские",
+      "Отображение времени: аналоговый",
+      "Регулируемая посадка на запястье",
+      "Комплектация: часы и комплект упаковки"
+    ],
+    "hashtags_ru": "#наручные_часы #аксессуары #подарок #деловой_стиль"
+  },
+  "image_order": [
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/1.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/2.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/3.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/4.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/5.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/6.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/7.jpg"
+  ],
+  "ozon_import_payload_template": {
+    "items": [
+      {
+        "offer_id": "WT-OMEGA-00421",
+        "name": "Наручные часы OMEGA, ETA-W200, мужские",
+        "description": "Наручные часы OMEGA модели ETA-W200 для повседневных и деловых образов. Формат отображения времени: аналоговый. Диаметр корпуса: 39.5 мм. Стекло: сапфировое. Водозащита по данным поставщика: 5 M. Комплектация: часы и комплект упаковки.",
+        "description_category_id": 17027904,
+        "type_id": 91758,
+        "height": 100,
+        "depth": 300,
+        "width": 150,
+        "dimension_unit": "mm",
+        "weight": 900,
+        "weight_unit": "g",
+        "currency_code": "CNY",
+        "brand": "OMEGA",
+        "primary_image": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/1.jpg",
+        "images": [
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/1.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/2.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/3.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/4.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/5.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/6.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/omega/00421/7.jpg"
+        ],
+        "attribute_values": {
+          "85": {
+            "value": "OMEGA",
+            "dictionary_resolution": "required_at_activation"
+          },
+          "9163": [
+            {
+              "dictionary_value_id": 22880
+            }
+          ],
+          "9048": "WT-OMEGA-00421",
+          "8229": {
+            "dictionary_value_id": 91758
+          },
+          "12141": "ETA-W200",
+          "4384": "часы и комплект упаковки",
+          "11650": "1",
+          "4389": {
+            "value": "Китай",
+            "dictionary_resolution": "required_at_activation"
+          },
+          "23171": "#наручные_часы #аксессуары #подарок #деловой_стиль",
+          "5294": "сапфировое",
+          "5351": "5 M",
+          "10535": 39.5
+        },
+        "rich_content": "{\"version\":0.3,\"content\":[{\"widgetName\":\"raTextBlock\",\"text\":{\"size\":\"size2\",\"align\":\"left\",\"color\":\"color1\",\"content\":[\"Наручные часы OMEGA модели ETA-W200 для повседневных и деловых образов. Формат отображения времени: аналоговый. Диаметр корпуса: 39.5 мм. Стекло: сапфировое. Водозащита по данным поставщика: 5 M. Комплектация: часы и комплект упаковки.\"]}}]}"
+      }
+    ]
+  },
+  "activation_contract": {
+    "requires_target_store": true,
+    "requires_target_margin": true,
+    "requires_current_rub_per_cny": true,
+    "route": "Standard",
+    "packaged_weight_g": 900,
+    "package_dimensions_cm": {
+      "length": 30,
+      "width": 15,
+      "height": 10
+    },
+    "domestic_shipping_cny": 0,
+    "label_fee_cny": 2,
+    "volumetric_weight_used": false,
+    "inventory_write_allowed": false
+  }
+}
