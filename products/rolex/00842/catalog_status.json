@@ -17,7 +17,8 @@
   "main_image_valid": true,
   "all_images_decodable": true,
   "public_urls_expected": true,
-  "public_urls_verified": false,
+  "public_urls_verified": true,
   "errors": [],
-  "validation_hash": "30b0542ee40ff62a1881bc557c2c7897fc8de5e0f9de6aa6b2a33e13ae49767d"
+  "validation_hash": "30b0542ee40ff62a1881bc557c2c7897fc8de5e0f9de6aa6b2a33e13ae49767d",
+  "public_urls_checked_at": "2026-07-21T23:06:19+08:00"
 }
