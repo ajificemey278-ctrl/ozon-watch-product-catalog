@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "casio-00905",
+  "source_sku_id": "00905",
+  "candidate_sku_key": "casio-00905",
+  "single_sku_lock": {
+    "model": "WT-00905",
+    "color": [],
+    "quantity": 1,
+    "status": "confirmed"
+  },
+  "source_brand_folder": "CASIO卡西欧",
+  "offer_id": "WT-CASIO-00905",
+  "facts": {
+    "model": {
+      "value": "WT-00905",
+      "status": "estimated",
+      "evidence": "description_or_catalog_sku"
+    },
+    "color": {
+      "value": [],
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "gender": {
+      "value": [
+        "мужские",
+        "женские"
+      ],
+      "dictionary_value_ids": [
+        22880,
+        22881
+      ],
+      "status": "estimated",
+      "evidence": "description_or_diameter"
+    },
+    "movement": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "display": {
+      "value": "аналоговый",
+      "status": "estimated",
+      "evidence": "description_or_watch_default"
+    },
+    "dial": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "case": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "strap": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "glass": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "water_resistance": {
+      "value": "43 M",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "case_diameter_mm": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "quantity": {
+      "value": 1,
+      "status": "confirmed",
+      "evidence": "one_sku_one_watch_contract"
+    },
+    "package_contents": {
+      "value": "часы и комплект упаковки",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "organization_brand": {
+      "value": "CASIO",
+      "status": "confirmed",
+      "evidence": "source_brand_folder"
+    }
+  },
+  "estimated_facts": {
+    "packaged_weight_g": {
+      "value": 900,
+      "status": "estimated",
+      "estimate_basis": "user watch catalog default 600-900 g; conservative upper bound",
+      "confidence": "medium",
+      "risk_note": "not buyer-visible marketing copy",
+      "confirmation_required": true
+    },
+    "package_dimensions_cm": {
+      "value": {
+        "length": 30,
+        "width": 15,
+        "height": 10
+      },
+      "status": "estimated",
+      "estimate_basis": "watch with retail packaging",
+      "confidence": "medium",
+      "risk_note": "must be rechecked if packaging changes",
+      "confirmation_required": true
+    },
+    "domestic_shipping_cny": {
+      "value": 0,
+      "status": "estimated",
+      "estimate_basis": "user inventory rule",
+      "confidence": "high",
+      "risk_note": "internal calculation only",
+      "confirmation_required": false
+    }
+  },
+  "unknown_fields": [
+    "color",
+    "movement",
+    "dial",
+    "case",
+    "strap",
+    "glass",
+    "case_diameter_mm"
+  ],
+  "evidence": {
+    "description_sha256": "8781d5eeb3c16dc989e9bff30e674499b3a8bc515fa444a5c86038c89c437d4c",
+    "images": [
+      {
+        "file": "1.jpg",
+        "sha256": "e914320dbdb5bb956699b8349e8517dd49140cf12b819b56d47d4592756cb1ab",
+        "byte_size": 258753,
+        "width": 1074,
+        "height": 1074,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": true,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/casio/00905/1.jpg"
+      },
+      {
+        "file": "2.jpg",
+        "sha256": "aa4de9a7fb48a6930bdd56e70c84b718f43265d6e047e9e5bee3acb33a13817d",
+        "byte_size": 235798,
+        "width": 1074,
+        "height": 1074,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/casio/00905/2.jpg"
+      },
+      {
+        "file": "3.jpg",
+        "sha256": "62b31dd13bd708f69905b78dbe891614b65b4ba0ed87c16e2a411fae3fce205d",
+        "byte_size": 303918,
+        "width": 1074,
+        "height": 1074,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/casio/00905/3.jpg"
+      },
+      {
+        "file": "4.jpg",
+        "sha256": "c5a825b03243e644b8e155368987b7ee9680ddf0cee6530cf44659648780bee4",
+        "byte_size": 242238,
+        "width": 1074,
+        "height": 1074,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/casio/00905/4.jpg"
+      },
+      {
+        "file": "5.jpg",
+        "sha256": "2630559719bdf5692727450300c2b77efb94d570a11e445488ae178c4f5bb2aa",
+        "byte_size": 286200,
+        "width": 1074,
+        "height": 1074,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/casio/00905/5.jpg"
+      },
+      {
+        "file": "6.jpg",
+        "sha256": "cdd219a2ab2e5ef8a1f08cab40c01e20b82a52735f487ace743e2767f1eeaff6",
+        "byte_size": 315857,
+        "width": 1074,
+        "height": 1074,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/casio/00905/6.jpg"
+      },
+      {
+        "file": "7.jpg",
+        "sha256": "d7d82e951b895d2fa9b2c61cdd4e3c6c038c513a8129e6f783a5e11384d51e2b",
+        "byte_size": 235207,
+        "width": 1074,
+        "height": 1074,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/casio/00905/7.jpg"
+      },
+      {
+        "file": "8.jpg",
+        "sha256": "33e21c332c249157aead926c52e3d13ed1efb065152e4c7627b58384bd92defc",
+        "byte_size": 283744,
+        "width": 1074,
+        "height": 1074,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/casio/00905/8.jpg"
+      },
+      {
+        "file": "9.jpg",
+        "sha256": "35d43c4fd15039ef898f0db9e81ba1fd70940c2016897df2680e01500b6e77b2",
+        "byte_size": 216436,
+        "width": 1074,
+        "height": 1074,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/casio/00905/9.jpg"
+      }
+    ]
+  }
+}

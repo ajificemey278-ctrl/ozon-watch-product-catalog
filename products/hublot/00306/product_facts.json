@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "hublot-00306",
+  "source_sku_id": "00306",
+  "candidate_sku_key": "hublot-00306",
+  "single_sku_lock": {
+    "model": "NX7170.LR",
+    "color": [],
+    "quantity": 1,
+    "status": "confirmed"
+  },
+  "source_brand_folder": "HUBLOT宇舶",
+  "offer_id": "WT-HUBLOT-00306",
+  "facts": {
+    "model": {
+      "value": "NX7170.LR",
+      "status": "confirmed",
+      "evidence": "description_or_catalog_sku"
+    },
+    "color": {
+      "value": [],
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "gender": {
+      "value": [
+        "мужские",
+        "женские"
+      ],
+      "dictionary_value_ids": [
+        22880,
+        22881
+      ],
+      "status": "estimated",
+      "evidence": "description_or_diameter"
+    },
+    "movement": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "display": {
+      "value": "аналоговый",
+      "status": "estimated",
+      "evidence": "description_or_watch_default"
+    },
+    "dial": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "case": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "strap": {
+      "value": "натуральная кожа",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "glass": {
+      "value": "сапфировое",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "water_resistance": {
+      "value": "11 M",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "case_diameter_mm": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "quantity": {
+      "value": 1,
+      "status": "confirmed",
+      "evidence": "one_sku_one_watch_contract"
+    },
+    "package_contents": {
+      "value": "часы и комплект упаковки",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "organization_brand": {
+      "value": "HUBLOT",
+      "status": "confirmed",
+      "evidence": "source_brand_folder"
+    }
+  },
+  "estimated_facts": {
+    "packaged_weight_g": {
+      "value": 900,
+      "status": "estimated",
+      "estimate_basis": "user watch catalog default 600-900 g; conservative upper bound",
+      "confidence": "medium",
+      "risk_note": "not buyer-visible marketing copy",
+      "confirmation_required": true
+    },
+    "package_dimensions_cm": {
+      "value": {
+        "length": 30,
+        "width": 15,
+        "height": 10
+      },
+      "status": "estimated",
+      "estimate_basis": "watch with retail packaging",
+      "confidence": "medium",
+      "risk_note": "must be rechecked if packaging changes",
+      "confirmation_required": true
+    },
+    "domestic_shipping_cny": {
+      "value": 0,
+      "status": "estimated",
+      "estimate_basis": "user inventory rule",
+      "confidence": "high",
+      "risk_note": "internal calculation only",
+      "confirmation_required": false
+    }
+  },
+  "unknown_fields": [
+    "color",
+    "movement",
+    "dial",
+    "case",
+    "case_diameter_mm"
+  ],
+  "evidence": {
+    "description_sha256": "38c9763eb40329f31929b9ddfb4acf0921e07be029d294d1fe80c629f9df10f9",
+    "images": [
+      {
+        "file": "1.jpg",
+        "sha256": "d9cdfa0a47303106702198730ae4ee6a300639a8bff452d7d65c39d40438affa",
+        "byte_size": 324139,
+        "width": 1134,
+        "height": 1134,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": true,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/hublot/00306/1.jpg"
+      },
+      {
+        "file": "2.jpg",
+        "sha256": "9d2173d00f44029deb18f7ef9b9d4cb43664dd65d963d6df8e2414a0e0be48d2",
+        "byte_size": 397871,
+        "width": 1512,
+        "height": 1512,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/hublot/00306/2.jpg"
+      },
+      {
+        "file": "3.jpg",
+        "sha256": "b37ce273af0dcc8a0e668f0e1081423657a723bfc41194ccf2ab6a1155704f44",
+        "byte_size": 458112,
+        "width": 1512,
+        "height": 1512,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/hublot/00306/3.jpg"
+      },
+      {
+        "file": "4.jpg",
+        "sha256": "91aadb1a4b2b0d841ab9b24223cdfe95fc54e564bb947518ea29ba0fc5a66f29",
+        "byte_size": 416891,
+        "width": 1512,
+        "height": 1512,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/hublot/00306/4.jpg"
+      },
+      {
+        "file": "5.jpg",
+        "sha256": "2c72b12821f595951a1755ec265fb5e411241aca3f99161214eb9a3f1645548d",
+        "byte_size": 351547,
+        "width": 1512,
+        "height": 1512,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/hublot/00306/5.jpg"
+      },
+      {
+        "file": "6.jpg",
+        "sha256": "d242e0ca8c74b907b43c151a1b38b582e2855ac6ccea072c547cea8a34cacd67",
+        "byte_size": 414277,
+        "width": 1512,
+        "height": 1512,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/hublot/00306/6.jpg"
+      },
+      {
+        "file": "7.jpg",
+        "sha256": "00feaae70f27a1c51fc0e515182cf36537e82a9598bcded4bbea565e1056b15c",
+        "byte_size": 222500,
+        "width": 1512,
+        "height": 1512,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/hublot/00306/7.jpg"
+      },
+      {
+        "file": "8.jpg",
+        "sha256": "ee8fd8b0c78c0f64a0ef05b89ca4f0ac941a4cbf74f445a4f88362016dd05912",
+        "byte_size": 386059,
+        "width": 1512,
+        "height": 1512,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/hublot/00306/8.jpg"
+      },
+      {
+        "file": "9.jpg",
+        "sha256": "90ee0c5b24daa3151795f22edc3161f40fdc0ac47208628d297467588e30b4c8",
+        "byte_size": 365853,
+        "width": 1512,
+        "height": 1512,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/hublot/00306/9.jpg"
+      }
+    ]
+  }
+}

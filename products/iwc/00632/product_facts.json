@@ -1,0 +1,229 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "iwc-00632",
+  "source_sku_id": "00632",
+  "candidate_sku_key": "iwc-00632",
+  "single_sku_lock": {
+    "model": "WT-00632",
+    "color": [],
+    "quantity": 1,
+    "status": "confirmed"
+  },
+  "source_brand_folder": "IWC万国",
+  "offer_id": "WT-IWC-00632",
+  "facts": {
+    "model": {
+      "value": "WT-00632",
+      "status": "estimated",
+      "evidence": "description_or_catalog_sku"
+    },
+    "color": {
+      "value": [],
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "gender": {
+      "value": [
+        "мужские"
+      ],
+      "dictionary_value_ids": [
+        22880
+      ],
+      "status": "estimated",
+      "evidence": "description_or_diameter"
+    },
+    "movement": {
+      "value": "механический",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "display": {
+      "value": "аналоговый",
+      "status": "confirmed",
+      "evidence": "description_or_watch_default"
+    },
+    "dial": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "case": {
+      "value": "нержавеющая сталь",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "strap": {
+      "value": "натуральная кожа",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "glass": {
+      "value": "сапфировое",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "water_resistance": {
+      "value": "42 M",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "case_diameter_mm": {
+      "value": 42.0,
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "quantity": {
+      "value": 1,
+      "status": "confirmed",
+      "evidence": "one_sku_one_watch_contract"
+    },
+    "package_contents": {
+      "value": "часы",
+      "status": "estimated",
+      "evidence": "description"
+    },
+    "organization_brand": {
+      "value": "IWC",
+      "status": "confirmed",
+      "evidence": "source_brand_folder"
+    }
+  },
+  "estimated_facts": {
+    "packaged_weight_g": {
+      "value": 900,
+      "status": "estimated",
+      "estimate_basis": "user watch catalog default 600-900 g; conservative upper bound",
+      "confidence": "medium",
+      "risk_note": "not buyer-visible marketing copy",
+      "confirmation_required": true
+    },
+    "package_dimensions_cm": {
+      "value": {
+        "length": 30,
+        "width": 15,
+        "height": 10
+      },
+      "status": "estimated",
+      "estimate_basis": "watch with retail packaging",
+      "confidence": "medium",
+      "risk_note": "must be rechecked if packaging changes",
+      "confirmation_required": true
+    },
+    "domestic_shipping_cny": {
+      "value": 0,
+      "status": "estimated",
+      "estimate_basis": "user inventory rule",
+      "confidence": "high",
+      "risk_note": "internal calculation only",
+      "confirmation_required": false
+    }
+  },
+  "unknown_fields": [
+    "color",
+    "dial"
+  ],
+  "evidence": {
+    "description_sha256": "5abc84ceacc200134610642f112520abb9829471cfa15e68b198ccf2c9c7b86c",
+    "images": [
+      {
+        "file": "1.jpg",
+        "sha256": "3b358a3e684d349c4de1906bfc2db7e5b724b692a320bf2fb52ac9e0202a3849",
+        "byte_size": 198748,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": true,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/iwc/00632/1.jpg"
+      },
+      {
+        "file": "2.jpg",
+        "sha256": "09ca7929c7336a6948d69258cadc040c9157293b83bc210acf8dd47e27e4e24c",
+        "byte_size": 217138,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/iwc/00632/2.jpg"
+      },
+      {
+        "file": "3.jpg",
+        "sha256": "cdd2b9c7a6949eba885ae23d0383b50398a19efed6aedebb230da2819149afe1",
+        "byte_size": 230331,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/iwc/00632/3.jpg"
+      },
+      {
+        "file": "4.jpg",
+        "sha256": "41ab7005cd2d5600b4f4d0c6eb077477f415d6897df373091cf825a9af0be48a",
+        "byte_size": 192237,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/iwc/00632/4.jpg"
+      },
+      {
+        "file": "5.jpg",
+        "sha256": "1e6213cdd6fd071cf82ae4258d7b103e2d1eea782a7c9a28b88f176242f3b567",
+        "byte_size": 145249,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/iwc/00632/5.jpg"
+      },
+      {
+        "file": "6.jpg",
+        "sha256": "7b7a0c19f933623097d6e509b794ecb04ed3b87232a882eddf3279661b065cc9",
+        "byte_size": 122118,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/iwc/00632/6.jpg"
+      },
+      {
+        "file": "7.jpg",
+        "sha256": "fc00c7c4eb8d71aacfaebf6257bb087d3f6cdaf73df6cf8cd4d85d3edd08f647",
+        "byte_size": 109829,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/iwc/00632/7.jpg"
+      },
+      {
+        "file": "8.jpg",
+        "sha256": "29dce93cc93e0c5563d9173a9f96b3a3ac08d36fdad4c58177f9c1bc2edfb45f",
+        "byte_size": 226898,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/iwc/00632/8.jpg"
+      },
+      {
+        "file": "9.jpg",
+        "sha256": "11335ae3941f076afc36dbed4b6498d7868e6934901ebc101eade04661ed5584",
+        "byte_size": 246926,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/iwc/00632/9.jpg"
+      }
+    ]
+  }
+}

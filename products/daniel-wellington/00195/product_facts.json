@@ -1,0 +1,235 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "daniel-wellington-00195",
+  "source_sku_id": "00195",
+  "candidate_sku_key": "daniel-wellington-00195",
+  "single_sku_lock": {
+    "model": "WT-00195",
+    "color": [],
+    "quantity": 1,
+    "status": "confirmed"
+  },
+  "source_brand_folder": "Dw丹尼尔惠灵顿",
+  "offer_id": "WT-DANIEL-WELLINGTON-00195",
+  "facts": {
+    "model": {
+      "value": "WT-00195",
+      "status": "estimated",
+      "evidence": "description_or_catalog_sku"
+    },
+    "color": {
+      "value": [],
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "gender": {
+      "value": [
+        "мужские",
+        "женские"
+      ],
+      "dictionary_value_ids": [
+        22880,
+        22881
+      ],
+      "status": "estimated",
+      "evidence": "description_or_diameter"
+    },
+    "movement": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "display": {
+      "value": "аналоговый",
+      "status": "estimated",
+      "evidence": "description_or_watch_default"
+    },
+    "dial": {
+      "value": "прямоугольная",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "case": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "strap": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "glass": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "water_resistance": {
+      "value": "26 M",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "case_diameter_mm": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "quantity": {
+      "value": 1,
+      "status": "confirmed",
+      "evidence": "one_sku_one_watch_contract"
+    },
+    "package_contents": {
+      "value": "часы и комплект упаковки",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "organization_brand": {
+      "value": "Daniel Wellington",
+      "status": "confirmed",
+      "evidence": "source_brand_folder"
+    }
+  },
+  "estimated_facts": {
+    "packaged_weight_g": {
+      "value": 900,
+      "status": "estimated",
+      "estimate_basis": "user watch catalog default 600-900 g; conservative upper bound",
+      "confidence": "medium",
+      "risk_note": "not buyer-visible marketing copy",
+      "confirmation_required": true
+    },
+    "package_dimensions_cm": {
+      "value": {
+        "length": 30,
+        "width": 15,
+        "height": 10
+      },
+      "status": "estimated",
+      "estimate_basis": "watch with retail packaging",
+      "confidence": "medium",
+      "risk_note": "must be rechecked if packaging changes",
+      "confirmation_required": true
+    },
+    "domestic_shipping_cny": {
+      "value": 0,
+      "status": "estimated",
+      "estimate_basis": "user inventory rule",
+      "confidence": "high",
+      "risk_note": "internal calculation only",
+      "confirmation_required": false
+    }
+  },
+  "unknown_fields": [
+    "color",
+    "movement",
+    "case",
+    "strap",
+    "glass",
+    "case_diameter_mm"
+  ],
+  "evidence": {
+    "description_sha256": "b21784e56eb01cce9eec55e4f29946ca86703ebc59e50001c1ad928f0f90a66a",
+    "images": [
+      {
+        "file": "1.jpg",
+        "sha256": "53c0253ca4da384cc0935108da32ea2131984a3b3129d4134b1c71a464a6b1c1",
+        "byte_size": 458233,
+        "width": 1074,
+        "height": 1074,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": true,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/daniel-wellington/00195/1.jpg"
+      },
+      {
+        "file": "2.jpg",
+        "sha256": "66a788f66ac5491f5bd2abeac42724a373376dbb968ef0836351c7e7efeba6be",
+        "byte_size": 388697,
+        "width": 1074,
+        "height": 1074,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/daniel-wellington/00195/2.jpg"
+      },
+      {
+        "file": "3.jpg",
+        "sha256": "178623ff27afac52e4f856f970d6da20f0f62ebbecf6761034e6fa0833af4712",
+        "byte_size": 462287,
+        "width": 1074,
+        "height": 1074,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/daniel-wellington/00195/3.jpg"
+      },
+      {
+        "file": "4.jpg",
+        "sha256": "e42621cf0c7ea42c1bef4dedb77f03e8f8894192cfc364e2bfe81ccc8d7fa179",
+        "byte_size": 406284,
+        "width": 1074,
+        "height": 1074,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/daniel-wellington/00195/4.jpg"
+      },
+      {
+        "file": "5.jpg",
+        "sha256": "2a4e815313642ef4757caa33a1c49326568853d2b9962d2a8a6293e64087374e",
+        "byte_size": 500336,
+        "width": 1074,
+        "height": 1074,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/daniel-wellington/00195/5.jpg"
+      },
+      {
+        "file": "6.jpg",
+        "sha256": "2c31cfd73612bd89eeeb410a717a1aeda6a8db07d7844ed7fd2ee8cbc6ef87ff",
+        "byte_size": 376656,
+        "width": 1074,
+        "height": 1074,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/daniel-wellington/00195/6.jpg"
+      },
+      {
+        "file": "7.jpg",
+        "sha256": "5375d6998258ed87854c4eee3e27b03e2412a22b5c5e0a1caa40b27d1fdae1af",
+        "byte_size": 264885,
+        "width": 1074,
+        "height": 1074,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/daniel-wellington/00195/7.jpg"
+      },
+      {
+        "file": "8.jpg",
+        "sha256": "10b6bd909ead12f811b49ab18858fc3eb9168a8714fb7e696e8b25de55117a7c",
+        "byte_size": 259040,
+        "width": 1074,
+        "height": 1074,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/daniel-wellington/00195/8.jpg"
+      },
+      {
+        "file": "9.jpg",
+        "sha256": "57a22f33177bc38887d96072f3d2c77f8400bad3fff7fcf35026fd3ee965a002",
+        "byte_size": 412815,
+        "width": 1074,
+        "height": 1074,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/daniel-wellington/00195/9.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "chanel-00412",
+  "source_sku_id": "00412",
+  "candidate_sku_key": "chanel-00412",
+  "single_sku_lock": {
+    "model": "WT-00412",
+    "color": [
+      "черный",
+      "белый",
+      "серебристый"
+    ],
+    "quantity": 1,
+    "status": "confirmed"
+  },
+  "source_brand_folder": "CHANEL香奈儿",
+  "offer_id": "WT-CHANEL-00412",
+  "facts": {
+    "model": {
+      "value": "WT-00412",
+      "status": "estimated",
+      "evidence": "description_or_catalog_sku"
+    },
+    "color": {
+      "value": [
+        "черный",
+        "белый",
+        "серебристый"
+      ],
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "gender": {
+      "value": [
+        "мужские",
+        "женские"
+      ],
+      "dictionary_value_ids": [
+        22880,
+        22881
+      ],
+      "status": "estimated",
+      "evidence": "description_or_diameter"
+    },
+    "movement": {
+      "value": "кварцевый",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "display": {
+      "value": "аналоговый",
+      "status": "confirmed",
+      "evidence": "description_or_watch_default"
+    },
+    "dial": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "case": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "strap": {
+      "value": "нержавеющая сталь",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "glass": {
+      "value": "сапфировое",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "water_resistance": {
+      "value": "30 米",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "case_diameter_mm": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "quantity": {
+      "value": 1,
+      "status": "confirmed",
+      "evidence": "one_sku_one_watch_contract"
+    },
+    "package_contents": {
+      "value": "часы и комплект упаковки",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "organization_brand": {
+      "value": "CHANEL",
+      "status": "confirmed",
+      "evidence": "source_brand_folder"
+    }
+  },
+  "estimated_facts": {
+    "packaged_weight_g": {
+      "value": 900,
+      "status": "estimated",
+      "estimate_basis": "user watch catalog default 600-900 g; conservative upper bound",
+      "confidence": "medium",
+      "risk_note": "not buyer-visible marketing copy",
+      "confirmation_required": true
+    },
+    "package_dimensions_cm": {
+      "value": {
+        "length": 30,
+        "width": 15,
+        "height": 10
+      },
+      "status": "estimated",
+      "estimate_basis": "watch with retail packaging",
+      "confidence": "medium",
+      "risk_note": "must be rechecked if packaging changes",
+      "confirmation_required": true
+    },
+    "domestic_shipping_cny": {
+      "value": 0,
+      "status": "estimated",
+      "estimate_basis": "user inventory rule",
+      "confidence": "high",
+      "risk_note": "internal calculation only",
+      "confirmation_required": false
+    }
+  },
+  "unknown_fields": [
+    "dial",
+    "case",
+    "case_diameter_mm"
+  ],
+  "evidence": {
+    "description_sha256": "c953080f3edd2bf7791c4be8df250b584cffd408408251c0976003ecc57d79d3",
+    "images": [
+      {
+        "file": "1.jpg",
+        "sha256": "99aff5858242930316d10028946bd5d4f58ac3e528868a823280f5c765789a7b",
+        "byte_size": 455421,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": true,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/chanel/00412/1.jpg"
+      },
+      {
+        "file": "2.jpg",
+        "sha256": "2294f908f715cb49aaa4653362e59bfd58a771405bc0f8b1540661f8a885fde6",
+        "byte_size": 443573,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/chanel/00412/2.jpg"
+      },
+      {
+        "file": "3.jpg",
+        "sha256": "28448c061e5e4bb3d3fc79884ce7e79fc96f533b06df212ee7aee7cad20af945",
+        "byte_size": 432396,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/chanel/00412/3.jpg"
+      },
+      {
+        "file": "4.jpg",
+        "sha256": "187203493ce8ec1e7ee60f17b4681a79b8d278ba3eb6b982c4d2fcc3d7748908",
+        "byte_size": 443590,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/chanel/00412/4.jpg"
+      },
+      {
+        "file": "5.jpg",
+        "sha256": "8614a39a0793de81f14d2a4744e7aec1b8ca1feaf80a7bc7290b4b86c93c7ca9",
+        "byte_size": 479847,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/chanel/00412/5.jpg"
+      },
+      {
+        "file": "6.jpg",
+        "sha256": "76141b49b381e45723a75186bdfae92633011024fff74ecfbf1f407a37da606d",
+        "byte_size": 478426,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/chanel/00412/6.jpg"
+      },
+      {
+        "file": "7.jpg",
+        "sha256": "dfa67db2ebe6453ecd7e67b8b10af5fb6afdd1b4fed58d62f56a36c681a58f1b",
+        "byte_size": 447377,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/chanel/00412/7.jpg"
+      },
+      {
+        "file": "8.jpg",
+        "sha256": "5c5f2f750f759c2d2fc687143d280e6260ced532121a10f90c89802bed1a294a",
+        "byte_size": 492705,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/chanel/00412/8.jpg"
+      },
+      {
+        "file": "9.jpg",
+        "sha256": "bf2ec86d4a8f4b71c555d340b03718ce159bf052c603d5fb0ec156c490cd2ad7",
+        "byte_size": 494109,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/chanel/00412/9.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "gucci-00817",
+  "source_sku_id": "00817",
+  "status": "catalog_ready",
+  "allowed_to_create": false,
+  "activation_required": true,
+  "single_sku_valid": true,
+  "required_attribute_ids": [
+    "8229",
+    "85",
+    "9048",
+    "9163"
+  ],
+  "required_attributes_complete": true,
+  "image_count": 8,
+  "main_image_valid": true,
+  "all_images_decodable": true,
+  "public_urls_expected": true,
+  "public_urls_verified": false,
+  "errors": [],
+  "validation_hash": "446f65b57906d698df9ec172d8b423d950cefd0d19ceeb38e92cb6f4512026e6"
+}

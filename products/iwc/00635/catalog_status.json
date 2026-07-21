@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "iwc-00635",
+  "source_sku_id": "00635",
+  "status": "catalog_ready",
+  "allowed_to_create": false,
+  "activation_required": true,
+  "single_sku_valid": true,
+  "required_attribute_ids": [
+    "8229",
+    "85",
+    "9048",
+    "9163"
+  ],
+  "required_attributes_complete": true,
+  "image_count": 9,
+  "main_image_valid": true,
+  "all_images_decodable": true,
+  "public_urls_expected": true,
+  "public_urls_verified": false,
+  "errors": [],
+  "validation_hash": "31453ebd10185613997085d5f936c6439574b683089f15a86afe143fb2b8dac9"
+}

@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "gucci-00814",
+  "source_sku_id": "00814",
+  "candidate_sku_key": "gucci-00814",
+  "single_sku_lock": {
+    "model": "WT-00814",
+    "color": [],
+    "quantity": 1,
+    "status": "confirmed"
+  },
+  "source_brand_folder": "GUCCI古驰",
+  "offer_id": "WT-GUCCI-00814",
+  "facts": {
+    "model": {
+      "value": "WT-00814",
+      "status": "estimated",
+      "evidence": "description_or_catalog_sku"
+    },
+    "color": {
+      "value": [],
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "gender": {
+      "value": [
+        "мужские",
+        "женские"
+      ],
+      "dictionary_value_ids": [
+        22880,
+        22881
+      ],
+      "status": "estimated",
+      "evidence": "description_or_diameter"
+    },
+    "movement": {
+      "value": "кварцевый",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "display": {
+      "value": "аналоговый",
+      "status": "confirmed",
+      "evidence": "description_or_watch_default"
+    },
+    "dial": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "case": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "strap": {
+      "value": "натуральная кожа",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "glass": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "water_resistance": {
+      "value": "заявлена водозащита",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "case_diameter_mm": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "quantity": {
+      "value": 1,
+      "status": "confirmed",
+      "evidence": "one_sku_one_watch_contract"
+    },
+    "package_contents": {
+      "value": "часы и комплект упаковки",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "organization_brand": {
+      "value": "GUCCI",
+      "status": "confirmed",
+      "evidence": "source_brand_folder"
+    }
+  },
+  "estimated_facts": {
+    "packaged_weight_g": {
+      "value": 900,
+      "status": "estimated",
+      "estimate_basis": "user watch catalog default 600-900 g; conservative upper bound",
+      "confidence": "medium",
+      "risk_note": "not buyer-visible marketing copy",
+      "confirmation_required": true
+    },
+    "package_dimensions_cm": {
+      "value": {
+        "length": 30,
+        "width": 15,
+        "height": 10
+      },
+      "status": "estimated",
+      "estimate_basis": "watch with retail packaging",
+      "confidence": "medium",
+      "risk_note": "must be rechecked if packaging changes",
+      "confirmation_required": true
+    },
+    "domestic_shipping_cny": {
+      "value": 0,
+      "status": "estimated",
+      "estimate_basis": "user inventory rule",
+      "confidence": "high",
+      "risk_note": "internal calculation only",
+      "confirmation_required": false
+    }
+  },
+  "unknown_fields": [
+    "color",
+    "dial",
+    "case",
+    "glass",
+    "case_diameter_mm"
+  ],
+  "evidence": {
+    "description_sha256": "9e0aeaf81adf85f2405df2bedc54c8e9283ab242b858f8c5fe500690b37a34a1",
+    "images": [
+      {
+        "file": "1.jpg",
+        "sha256": "c5422845c9bda48d24714a24f61b1c0a0028def3ca0e443e6538e4d59c737c2d",
+        "byte_size": 318217,
+        "width": 1368,
+        "height": 1368,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": true,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/gucci/00814/1.jpg"
+      },
+      {
+        "file": "2.jpg",
+        "sha256": "90c3195e3715099702b48e41f366df6d05cd859be4b67c3f3b4ab8c16083bd1f",
+        "byte_size": 303975,
+        "width": 1368,
+        "height": 1368,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/gucci/00814/2.jpg"
+      },
+      {
+        "file": "3.jpg",
+        "sha256": "53a740a7e7c9a565e20bf84c3809ead21c5cf3dc580da99a52cfb87d5e5a1d5b",
+        "byte_size": 274105,
+        "width": 1368,
+        "height": 1368,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/gucci/00814/3.jpg"
+      },
+      {
+        "file": "4.jpg",
+        "sha256": "ed66e513844b24c09a415ce9e8efb86d41c5cb9aae634c19097ba47efb133d94",
+        "byte_size": 268736,
+        "width": 1368,
+        "height": 1368,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/gucci/00814/4.jpg"
+      },
+      {
+        "file": "5.jpg",
+        "sha256": "10622ba5eb1a55dae54309ca81585f6fef6fb86f8fcbbf0a448f94139d77abad",
+        "byte_size": 263519,
+        "width": 1368,
+        "height": 1368,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/gucci/00814/5.jpg"
+      },
+      {
+        "file": "6.jpg",
+        "sha256": "0b520ae9ceabbf9ed9466b0036cbb03d1dc7f0567fb8eb9d74a1a69337e59e27",
+        "byte_size": 233299,
+        "width": 1368,
+        "height": 1368,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/gucci/00814/6.jpg"
+      },
+      {
+        "file": "7.jpg",
+        "sha256": "eead15c4040574bd5d945f946ac17e1e13173665a973e9592fb609ec2bdf9cb1",
+        "byte_size": 541582,
+        "width": 1920,
+        "height": 1920,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/gucci/00814/7.jpg"
+      },
+      {
+        "file": "8.jpg",
+        "sha256": "5a3bd47afed60e1ab0a91fedc3a288876da854943d29955b35621e2376167ae4",
+        "byte_size": 525445,
+        "width": 1920,
+        "height": 1920,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/gucci/00814/8.jpg"
+      },
+      {
+        "file": "9.jpg",
+        "sha256": "6e3c5bd76c6cfbfc3671571dd3cf1dc0bed76c83f8454ddcf7c2c056fd62fbeb",
+        "byte_size": 547889,
+        "width": 1920,
+        "height": 1920,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/gucci/00814/9.jpg"
+      }
+    ]
+  }
+}
