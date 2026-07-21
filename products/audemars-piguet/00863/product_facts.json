@@ -1,0 +1,232 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "audemars-piguet-00863",
+  "source_sku_id": "00863",
+  "candidate_sku_key": "audemars-piguet-00863",
+  "single_sku_lock": {
+    "model": "OO.1220ST.01",
+    "color": [],
+    "quantity": 1,
+    "status": "confirmed"
+  },
+  "source_brand_folder": "Audemars Piguet爱彼",
+  "offer_id": "WT-AUDEMARS-PIGUET-00863",
+  "facts": {
+    "model": {
+      "value": "OO.1220ST.01",
+      "status": "confirmed",
+      "evidence": "description_or_catalog_sku"
+    },
+    "color": {
+      "value": [],
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "gender": {
+      "value": [
+        "мужские"
+      ],
+      "dictionary_value_ids": [
+        22880
+      ],
+      "status": "estimated",
+      "evidence": "description_or_diameter"
+    },
+    "movement": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "display": {
+      "value": "аналоговый",
+      "status": "confirmed",
+      "evidence": "description_or_watch_default"
+    },
+    "dial": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "case": {
+      "value": "нержавеющая сталь",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "strap": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "glass": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "water_resistance": {
+      "value": "41 M",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "case_diameter_mm": {
+      "value": 41.0,
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "quantity": {
+      "value": 1,
+      "status": "confirmed",
+      "evidence": "one_sku_one_watch_contract"
+    },
+    "package_contents": {
+      "value": "часы",
+      "status": "estimated",
+      "evidence": "description"
+    },
+    "organization_brand": {
+      "value": "Audemars Piguet",
+      "status": "confirmed",
+      "evidence": "source_brand_folder"
+    }
+  },
+  "estimated_facts": {
+    "packaged_weight_g": {
+      "value": 900,
+      "status": "estimated",
+      "estimate_basis": "user watch catalog default 600-900 g; conservative upper bound",
+      "confidence": "medium",
+      "risk_note": "not buyer-visible marketing copy",
+      "confirmation_required": true
+    },
+    "package_dimensions_cm": {
+      "value": {
+        "length": 30,
+        "width": 15,
+        "height": 10
+      },
+      "status": "estimated",
+      "estimate_basis": "watch with retail packaging",
+      "confidence": "medium",
+      "risk_note": "must be rechecked if packaging changes",
+      "confirmation_required": true
+    },
+    "domestic_shipping_cny": {
+      "value": 0,
+      "status": "estimated",
+      "estimate_basis": "user inventory rule",
+      "confidence": "high",
+      "risk_note": "internal calculation only",
+      "confirmation_required": false
+    }
+  },
+  "unknown_fields": [
+    "color",
+    "movement",
+    "dial",
+    "strap",
+    "glass"
+  ],
+  "evidence": {
+    "description_sha256": "1736dfe79daf61772a0468de9c6f452f80825f1d482a21868b00317a115d4e88",
+    "images": [
+      {
+        "file": "1.jpg",
+        "sha256": "8612ca5e4a3eb8356f8931769b35504673ab6058eb887bed4629727b0f33cacb",
+        "byte_size": 448175,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": true,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/audemars-piguet/00863/1.jpg"
+      },
+      {
+        "file": "2.jpg",
+        "sha256": "f2df19778f670260d5ef51a10570b96633afdbedfd0ce97760d93012cb320c73",
+        "byte_size": 335742,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/audemars-piguet/00863/2.jpg"
+      },
+      {
+        "file": "3.jpg",
+        "sha256": "14823cec4538ac5528dc77f45de867b31e7d3732c424038391537c0ca6a6e09c",
+        "byte_size": 328148,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/audemars-piguet/00863/3.jpg"
+      },
+      {
+        "file": "4.jpg",
+        "sha256": "dd89a03a59f627ce43510d6cb9703302fa63d2f968b8c75f0be4818871fe04bf",
+        "byte_size": 334883,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/audemars-piguet/00863/4.jpg"
+      },
+      {
+        "file": "5.jpg",
+        "sha256": "f0f934143935d53f175599a3208c254fce3c3c57d9ccbe2f032998581d648ba5",
+        "byte_size": 357075,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/audemars-piguet/00863/5.jpg"
+      },
+      {
+        "file": "6.jpg",
+        "sha256": "acf08492f9b1b67d759e7d4abbbcc82afb4b15e0ea5625f717508e002137c4f8",
+        "byte_size": 428427,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/audemars-piguet/00863/6.jpg"
+      },
+      {
+        "file": "7.jpg",
+        "sha256": "dc6545d0abe4cc6db943b94fcaa205f76db80620a32cde4b97bfaafd48a5570a",
+        "byte_size": 354601,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/audemars-piguet/00863/7.jpg"
+      },
+      {
+        "file": "8.jpg",
+        "sha256": "3420b0bccab5ec6fd4b283e9a424a3a2c4490e75a1c3cc6c84343ff47861ab42",
+        "byte_size": 426343,
+        "width": 1080,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/audemars-piguet/00863/8.jpg"
+      },
+      {
+        "file": "9.jpg",
+        "sha256": "fc71eff22d377769526d3706a9f24df2daf4d900165340b031858a9dda26f0d9",
+        "byte_size": 491592,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/audemars-piguet/00863/9.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "cartier-00602",
+  "source_sku_id": "00602",
+  "status": "catalog_ready",
+  "allowed_to_create": false,
+  "activation_required": true,
+  "single_sku_valid": true,
+  "required_attribute_ids": [
+    "8229",
+    "85",
+    "9048",
+    "9163"
+  ],
+  "required_attributes_complete": true,
+  "image_count": 9,
+  "main_image_valid": true,
+  "all_images_decodable": true,
+  "public_urls_expected": true,
+  "public_urls_verified": false,
+  "errors": [],
+  "validation_hash": "6cded13174e5894da6f332665e843ed21c59fbd523279682c82581447b165de2"
+}

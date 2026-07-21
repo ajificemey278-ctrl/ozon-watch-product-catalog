@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "input_mode": "catalog_template",
+  "status": "catalog_ready",
+  "allowed_to_create": false,
+  "activation_required": true,
+  "catalog_key": "cartier-00176",
+  "source_sku_id": "00176",
+  "offer_id": "WT-CARTIER-00176",
+  "category": {
+    "description_category_id": 17027904,
+    "type_id": 91758,
+    "type_name_ru": "Наручные часы"
+  },
+  "content": {
+    "title_ru": "Наручные часы Cartier, MIYOTA-9015, мужские и женские, синий",
+    "short_description_ru": "Наручные часы Cartier модели MIYOTA-9015 для повседневных и деловых образов. Формат отображения времени: аналоговый. Стекло: сапфировое.",
+    "description_ru": "Наручные часы Cartier модели MIYOTA-9015 для повседневных и деловых образов. Формат отображения времени: аналоговый. Стекло: сапфировое. Водозащита по данным поставщика: 1847 M. Комплектация: часы и комплект упаковки.",
+    "bullet_points_ru": [
+      "Выразительный дизайн модели MIYOTA-9015",
+      "Подходит для: мужские и женские",
+      "Отображение времени: аналоговый",
+      "Регулируемая посадка на запястье",
+      "Комплектация: часы и комплект упаковки"
+    ],
+    "hashtags_ru": "#наручные_часы #аксессуары #подарок #деловой_стиль"
+  },
+  "image_order": [
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00176/1.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00176/2.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00176/3.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00176/4.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00176/5.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00176/6.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00176/7.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00176/8.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00176/9.jpg"
+  ],
+  "ozon_import_payload_template": {
+    "items": [
+      {
+        "offer_id": "WT-CARTIER-00176",
+        "name": "Наручные часы Cartier, MIYOTA-9015, мужские и женские, синий",
+        "description": "Наручные часы Cartier модели MIYOTA-9015 для повседневных и деловых образов. Формат отображения времени: аналоговый. Стекло: сапфировое. Водозащита по данным поставщика: 1847 M. Комплектация: часы и комплект упаковки.",
+        "description_category_id": 17027904,
+        "type_id": 91758,
+        "height": 100,
+        "depth": 300,
+        "width": 150,
+        "dimension_unit": "mm",
+        "weight": 900,
+        "weight_unit": "g",
+        "currency_code": "CNY",
+        "brand": "Cartier",
+        "primary_image": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00176/1.jpg",
+        "images": [
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00176/1.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00176/2.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00176/3.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00176/4.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00176/5.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00176/6.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00176/7.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00176/8.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00176/9.jpg"
+        ],
+        "attribute_values": {
+          "85": {
+            "value": "Cartier",
+            "dictionary_resolution": "required_at_activation"
+          },
+          "9163": [
+            {
+              "dictionary_value_id": 22880
+            },
+            {
+              "dictionary_value_id": 22881
+            }
+          ],
+          "9048": "WT-CARTIER-00176",
+          "8229": {
+            "dictionary_value_id": 91758
+          },
+          "12141": "MIYOTA-9015",
+          "4384": "часы и комплект упаковки",
+          "11650": "1",
+          "4389": {
+            "value": "Китай",
+            "dictionary_resolution": "required_at_activation"
+          },
+          "23171": "#наручные_часы #аксессуары #подарок #деловой_стиль",
+          "10097": "синий",
+          "5294": "сапфировое",
+          "5351": "1847 M"
+        },
+        "rich_content": "{\"version\":0.3,\"content\":[{\"widgetName\":\"raTextBlock\",\"text\":{\"size\":\"size2\",\"align\":\"left\",\"color\":\"color1\",\"content\":[\"Наручные часы Cartier модели MIYOTA-9015 для повседневных и деловых образов. Формат отображения времени: аналоговый. Стекло: сапфировое. Водозащита по данным поставщика: 1847 M. Комплектация: часы и комплект упаковки.\"]}}]}"
+      }
+    ]
+  },
+  "activation_contract": {
+    "requires_target_store": true,
+    "requires_target_margin": true,
+    "requires_current_rub_per_cny": true,
+    "route": "Standard",
+    "packaged_weight_g": 900,
+    "package_dimensions_cm": {
+      "length": 30,
+      "width": 15,
+      "height": 10
+    },
+    "domestic_shipping_cny": 0,
+    "label_fee_cny": 2,
+    "volumetric_weight_used": false,
+    "inventory_write_allowed": false
+  }
+}

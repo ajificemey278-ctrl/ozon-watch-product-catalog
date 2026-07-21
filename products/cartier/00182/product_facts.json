@@ -1,0 +1,233 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "cartier-00182",
+  "source_sku_id": "00182",
+  "candidate_sku_key": "cartier-00182",
+  "single_sku_lock": {
+    "model": "WT-00182",
+    "color": [],
+    "quantity": 1,
+    "status": "confirmed"
+  },
+  "source_brand_folder": "Cartier卡地亚",
+  "offer_id": "WT-CARTIER-00182",
+  "facts": {
+    "model": {
+      "value": "WT-00182",
+      "status": "estimated",
+      "evidence": "description_or_catalog_sku"
+    },
+    "color": {
+      "value": [],
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "gender": {
+      "value": [
+        "мужские",
+        "женские"
+      ],
+      "dictionary_value_ids": [
+        22880,
+        22881
+      ],
+      "status": "estimated",
+      "evidence": "description_or_diameter"
+    },
+    "movement": {
+      "value": "кварцевый",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "display": {
+      "value": "аналоговый",
+      "status": "confirmed",
+      "evidence": "description_or_watch_default"
+    },
+    "dial": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "case": {
+      "value": "нержавеющая сталь",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "strap": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "glass": {
+      "value": "сапфировое",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "water_resistance": {
+      "value": "31 M",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "case_diameter_mm": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "quantity": {
+      "value": 1,
+      "status": "confirmed",
+      "evidence": "one_sku_one_watch_contract"
+    },
+    "package_contents": {
+      "value": "часы и комплект упаковки",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "organization_brand": {
+      "value": "Cartier",
+      "status": "confirmed",
+      "evidence": "source_brand_folder"
+    }
+  },
+  "estimated_facts": {
+    "packaged_weight_g": {
+      "value": 900,
+      "status": "estimated",
+      "estimate_basis": "user watch catalog default 600-900 g; conservative upper bound",
+      "confidence": "medium",
+      "risk_note": "not buyer-visible marketing copy",
+      "confirmation_required": true
+    },
+    "package_dimensions_cm": {
+      "value": {
+        "length": 30,
+        "width": 15,
+        "height": 10
+      },
+      "status": "estimated",
+      "estimate_basis": "watch with retail packaging",
+      "confidence": "medium",
+      "risk_note": "must be rechecked if packaging changes",
+      "confirmation_required": true
+    },
+    "domestic_shipping_cny": {
+      "value": 0,
+      "status": "estimated",
+      "estimate_basis": "user inventory rule",
+      "confidence": "high",
+      "risk_note": "internal calculation only",
+      "confirmation_required": false
+    }
+  },
+  "unknown_fields": [
+    "color",
+    "dial",
+    "strap",
+    "case_diameter_mm"
+  ],
+  "evidence": {
+    "description_sha256": "fbc3669c8d5d3f35e30c91bd22c783862e046f1bc2844e8dfdd2363be6f22390",
+    "images": [
+      {
+        "file": "1.jpg",
+        "sha256": "0dc112e7355f7fefcc9adbcb226c3e8c16505e6ed250bb9654ab5ed8cf9b9e46",
+        "byte_size": 577240,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": true,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00182/1.jpg"
+      },
+      {
+        "file": "2.jpg",
+        "sha256": "f2f612f744625dd43610f13c5b386fdb65832097d00c4b53ab6fc9784983761d",
+        "byte_size": 603437,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00182/2.jpg"
+      },
+      {
+        "file": "3.jpg",
+        "sha256": "c4f15f078eb5bb744a0a5cf52dd94adbb324f8a195f2172f906e461cfaa443ac",
+        "byte_size": 625715,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00182/3.jpg"
+      },
+      {
+        "file": "4.jpg",
+        "sha256": "50d200b701d92a629f18a10d2ae826194c3599bc04ef7e1c4f942f73b84a3d57",
+        "byte_size": 612369,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00182/4.jpg"
+      },
+      {
+        "file": "5.jpg",
+        "sha256": "c6763ede41849ffa370d5466b40c4aa1892e1b6f2b348d949fa5a90bd32298e5",
+        "byte_size": 572459,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00182/5.jpg"
+      },
+      {
+        "file": "6.jpg",
+        "sha256": "54266e268f10787cccb863483fb1edfe470be0f1a2032596b84a9e639a695eff",
+        "byte_size": 554336,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00182/6.jpg"
+      },
+      {
+        "file": "7.jpg",
+        "sha256": "9db9039a5b4e2f4df566e504b6003c18189428b9b1f871038438da9db2015992",
+        "byte_size": 492316,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00182/7.jpg"
+      },
+      {
+        "file": "8.jpg",
+        "sha256": "9556c2e87a0129313720576d9dfc0c0c90649147593bfb687d6b4f62be853649",
+        "byte_size": 573837,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00182/8.jpg"
+      },
+      {
+        "file": "9.jpg",
+        "sha256": "ca1eb8ef950e162b7f52c0dbd6f8f3348cdcfa5e3e92ecbc9489b3ec6c11cb6e",
+        "byte_size": 612301,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/cartier/00182/9.jpg"
+      }
+    ]
+  }
+}

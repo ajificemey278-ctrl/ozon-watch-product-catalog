@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "cartier-00190",
+  "source_sku_id": "00190",
+  "status": "blocked",
+  "allowed_to_create": false,
+  "activation_required": true,
+  "single_sku_valid": true,
+  "required_attribute_ids": [
+    "8229",
+    "85",
+    "9048",
+    "9163"
+  ],
+  "required_attributes_complete": true,
+  "image_count": 7,
+  "main_image_valid": false,
+  "all_images_decodable": true,
+  "public_urls_expected": true,
+  "public_urls_verified": false,
+  "errors": [
+    "missing_1_main_image"
+  ],
+  "validation_hash": "5b46247e23a222c43ea515a95d925528929d2485b0b4882dcd1d1e6fb44c0179"
+}

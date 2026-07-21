@@ -1,0 +1,221 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "bvlgari-00088",
+  "source_sku_id": "00088",
+  "candidate_sku_key": "bvlgari-00088",
+  "single_sku_lock": {
+    "model": "WT-00088",
+    "color": [],
+    "quantity": 1,
+    "status": "confirmed"
+  },
+  "source_brand_folder": "宝格丽 手表",
+  "offer_id": "WT-BVLGARI-00088",
+  "facts": {
+    "model": {
+      "value": "WT-00088",
+      "status": "estimated",
+      "evidence": "description_or_catalog_sku"
+    },
+    "color": {
+      "value": [],
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "gender": {
+      "value": [
+        "женские"
+      ],
+      "dictionary_value_ids": [
+        22881
+      ],
+      "status": "confirmed",
+      "evidence": "description_or_diameter"
+    },
+    "movement": {
+      "value": "кварцевый",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "display": {
+      "value": "аналоговый",
+      "status": "confirmed",
+      "evidence": "description_or_watch_default"
+    },
+    "dial": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "case": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "strap": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "glass": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "water_resistance": {
+      "value": "35 M",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "case_diameter_mm": {
+      "value": 35.0,
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "quantity": {
+      "value": 1,
+      "status": "confirmed",
+      "evidence": "one_sku_one_watch_contract"
+    },
+    "package_contents": {
+      "value": "часы и комплект упаковки",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "organization_brand": {
+      "value": "BVLGARI",
+      "status": "confirmed",
+      "evidence": "source_brand_folder"
+    }
+  },
+  "estimated_facts": {
+    "packaged_weight_g": {
+      "value": 900,
+      "status": "estimated",
+      "estimate_basis": "user watch catalog default 600-900 g; conservative upper bound",
+      "confidence": "medium",
+      "risk_note": "not buyer-visible marketing copy",
+      "confirmation_required": true
+    },
+    "package_dimensions_cm": {
+      "value": {
+        "length": 30,
+        "width": 15,
+        "height": 10
+      },
+      "status": "estimated",
+      "estimate_basis": "watch with retail packaging",
+      "confidence": "medium",
+      "risk_note": "must be rechecked if packaging changes",
+      "confirmation_required": true
+    },
+    "domestic_shipping_cny": {
+      "value": 0,
+      "status": "estimated",
+      "estimate_basis": "user inventory rule",
+      "confidence": "high",
+      "risk_note": "internal calculation only",
+      "confirmation_required": false
+    }
+  },
+  "unknown_fields": [
+    "color",
+    "dial",
+    "case",
+    "strap",
+    "glass"
+  ],
+  "evidence": {
+    "description_sha256": "ca3389755a58fee2ca2afbff9152bf0cba9fd74da157646d3aea83e0a78a11dc",
+    "images": [
+      {
+        "file": "1.jpg",
+        "sha256": "904d9947d324c59e7976be939ea19cc0143c495bc6b5491da7bfdcf9bc23e85f",
+        "byte_size": 532245,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": true,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/bvlgari/00088/1.jpg"
+      },
+      {
+        "file": "2.jpg",
+        "sha256": "1fd17bddef304fef7c97ec886c9cc7ede3fd595dba91f2591c5a260b0249990d",
+        "byte_size": 524736,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/bvlgari/00088/2.jpg"
+      },
+      {
+        "file": "3.jpg",
+        "sha256": "fae190f360ec10fb4597a57ab223a8978848903649ceab0860a42fff0e5ccfaf",
+        "byte_size": 496404,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/bvlgari/00088/3.jpg"
+      },
+      {
+        "file": "4.jpg",
+        "sha256": "e9b337a82e04292128d267447f8aeca61be0f58e3271b9d59750f7ab452115cb",
+        "byte_size": 531378,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/bvlgari/00088/4.jpg"
+      },
+      {
+        "file": "5.jpg",
+        "sha256": "26a9fecfed254b822f70e9b8e79189938c7dd977d331630f80a608765d176e13",
+        "byte_size": 523469,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/bvlgari/00088/5.jpg"
+      },
+      {
+        "file": "6.jpg",
+        "sha256": "a01b631d65c288e1248dc1b7f373bf959ae6d6995959d7dfb9c214dae97d53af",
+        "byte_size": 571490,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/bvlgari/00088/6.jpg"
+      },
+      {
+        "file": "7.jpg",
+        "sha256": "036dcffb5d4a77d4d87d0036f669271f767b18a001e81ecd229cfb600f54902b",
+        "byte_size": 558685,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/bvlgari/00088/7.jpg"
+      },
+      {
+        "file": "8.jpg",
+        "sha256": "714e22e57c468873b85ee8d4ff88ff59945fbd83170fe562798d8e0e6b62a6f9",
+        "byte_size": 546236,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/bvlgari/00088/8.jpg"
+      }
+    ]
+  }
+}

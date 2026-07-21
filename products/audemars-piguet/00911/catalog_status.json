@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "audemars-piguet-00911",
+  "source_sku_id": "00911",
+  "status": "catalog_ready",
+  "allowed_to_create": false,
+  "activation_required": true,
+  "single_sku_valid": true,
+  "required_attribute_ids": [
+    "8229",
+    "85",
+    "9048",
+    "9163"
+  ],
+  "required_attributes_complete": true,
+  "image_count": 9,
+  "main_image_valid": true,
+  "all_images_decodable": true,
+  "public_urls_expected": true,
+  "public_urls_verified": false,
+  "errors": [],
+  "validation_hash": "c553acb152696cc158da7362229df96eaa1192d2dabf43ef9a08ab3e79a94c1e"
+}
