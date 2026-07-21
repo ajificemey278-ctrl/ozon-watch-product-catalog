@@ -1,0 +1,117 @@
+{
+  "schema_version": "1.0",
+  "input_mode": "catalog_template",
+  "status": "catalog_ready",
+  "allowed_to_create": false,
+  "activation_required": true,
+  "catalog_key": "panerai-00518",
+  "source_sku_id": "00518",
+  "offer_id": "WT-PANERAI-00518",
+  "category": {
+    "description_category_id": 17027904,
+    "type_id": 91758,
+    "type_name_ru": "Наручные часы"
+  },
+  "content": {
+    "title_ru": "Наручные часы Panerai, WT-00518, мужские и женские, синий",
+    "short_description_ru": "Наручные часы Panerai модели WT-00518 для повседневных и деловых образов. Механизм: механический с автоподзаводом. Формат отображения времени: аналоговый.",
+    "description_ru": "Наручные часы Panerai модели WT-00518 для повседневных и деловых образов. Механизм: механический с автоподзаводом. Формат отображения времени: аналоговый. Диаметр корпуса: 42 мм. Водозащита по данным поставщика: 42 M. Комплектация: часы.",
+    "bullet_points_ru": [
+      "Выразительный дизайн модели WT-00518",
+      "Подходит для: мужские и женские",
+      "Механизм: механический с автоподзаводом; отображение: аналоговый",
+      "Регулируемая посадка на запястье",
+      "Комплектация: часы"
+    ],
+    "hashtags_ru": "#наручные_часы #аксессуары #подарок #деловой_стиль"
+  },
+  "image_order": [
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00518/1.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00518/2.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00518/3.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00518/4.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00518/5.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00518/6.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00518/7.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00518/8.jpg",
+    "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00518/9.jpg"
+  ],
+  "ozon_import_payload_template": {
+    "items": [
+      {
+        "offer_id": "WT-PANERAI-00518",
+        "name": "Наручные часы Panerai, WT-00518, мужские и женские, синий",
+        "description": "Наручные часы Panerai модели WT-00518 для повседневных и деловых образов. Механизм: механический с автоподзаводом. Формат отображения времени: аналоговый. Диаметр корпуса: 42 мм. Водозащита по данным поставщика: 42 M. Комплектация: часы.",
+        "description_category_id": 17027904,
+        "type_id": 91758,
+        "height": 100,
+        "depth": 300,
+        "width": 150,
+        "dimension_unit": "mm",
+        "weight": 900,
+        "weight_unit": "g",
+        "currency_code": "CNY",
+        "brand": "Panerai",
+        "primary_image": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00518/1.jpg",
+        "images": [
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00518/1.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00518/2.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00518/3.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00518/4.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00518/5.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00518/6.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00518/7.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00518/8.jpg",
+          "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00518/9.jpg"
+        ],
+        "attribute_values": {
+          "85": {
+            "value": "Panerai",
+            "dictionary_resolution": "required_at_activation"
+          },
+          "9163": [
+            {
+              "dictionary_value_id": 22880
+            },
+            {
+              "dictionary_value_id": 22881
+            }
+          ],
+          "9048": "WT-PANERAI-00518",
+          "8229": {
+            "dictionary_value_id": 91758
+          },
+          "12141": "WT-00518",
+          "4384": "часы",
+          "11650": "1",
+          "4389": {
+            "value": "Китай",
+            "dictionary_resolution": "required_at_activation"
+          },
+          "23171": "#наручные_часы #аксессуары #подарок #деловой_стиль",
+          "10097": "синий",
+          "5301": "аналоговый",
+          "5351": "42 M",
+          "10535": 42.0
+        },
+        "rich_content": "{\"version\":0.3,\"content\":[{\"widgetName\":\"raTextBlock\",\"text\":{\"size\":\"size2\",\"align\":\"left\",\"color\":\"color1\",\"content\":[\"Наручные часы Panerai модели WT-00518 для повседневных и деловых образов. Механизм: механический с автоподзаводом. Формат отображения времени: аналоговый. Диаметр корпуса: 42 мм. Водозащита по данным поставщика: 42 M. Комплектация: часы.\"]}}]}"
+      }
+    ]
+  },
+  "activation_contract": {
+    "requires_target_store": true,
+    "requires_target_margin": true,
+    "requires_current_rub_per_cny": true,
+    "route": "Standard",
+    "packaged_weight_g": 900,
+    "package_dimensions_cm": {
+      "length": 30,
+      "width": 15,
+      "height": 10
+    },
+    "domestic_shipping_cny": 0,
+    "label_fee_cny": 2,
+    "volumetric_weight_used": false,
+    "inventory_write_allowed": false
+  }
+}

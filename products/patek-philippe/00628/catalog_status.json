@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "patek-philippe-00628",
+  "source_sku_id": "00628",
+  "status": "catalog_ready",
+  "allowed_to_create": false,
+  "activation_required": true,
+  "single_sku_valid": true,
+  "required_attribute_ids": [
+    "8229",
+    "85",
+    "9048",
+    "9163"
+  ],
+  "required_attributes_complete": true,
+  "image_count": 9,
+  "main_image_valid": true,
+  "all_images_decodable": true,
+  "public_urls_expected": true,
+  "public_urls_verified": false,
+  "errors": [],
+  "validation_hash": "42d6450ec256d816493e7659073ec3cf5cb565a2f48bb4bb60758f0f06597ba6"
+}

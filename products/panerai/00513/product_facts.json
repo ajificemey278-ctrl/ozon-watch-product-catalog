@@ -1,0 +1,237 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "panerai-00513",
+  "source_sku_id": "00513",
+  "candidate_sku_key": "panerai-00513",
+  "single_sku_lock": {
+    "model": "WT-00513",
+    "color": [
+      "синий"
+    ],
+    "quantity": 1,
+    "status": "confirmed"
+  },
+  "source_brand_folder": "Panerai沛纳海",
+  "offer_id": "WT-PANERAI-00513",
+  "facts": {
+    "model": {
+      "value": "WT-00513",
+      "status": "estimated",
+      "evidence": "description_or_catalog_sku"
+    },
+    "color": {
+      "value": [
+        "синий"
+      ],
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "gender": {
+      "value": [
+        "мужские",
+        "женские"
+      ],
+      "dictionary_value_ids": [
+        22880,
+        22881
+      ],
+      "status": "confirmed",
+      "evidence": "description_or_diameter"
+    },
+    "movement": {
+      "value": "механический с автоподзаводом",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "display": {
+      "value": "аналоговый",
+      "status": "confirmed",
+      "evidence": "description_or_watch_default"
+    },
+    "dial": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "case": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "strap": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "glass": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "water_resistance": {
+      "value": "42 M",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "case_diameter_mm": {
+      "value": 42.0,
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "quantity": {
+      "value": 1,
+      "status": "confirmed",
+      "evidence": "one_sku_one_watch_contract"
+    },
+    "package_contents": {
+      "value": "часы",
+      "status": "estimated",
+      "evidence": "description"
+    },
+    "organization_brand": {
+      "value": "Panerai",
+      "status": "confirmed",
+      "evidence": "source_brand_folder"
+    }
+  },
+  "estimated_facts": {
+    "packaged_weight_g": {
+      "value": 900,
+      "status": "estimated",
+      "estimate_basis": "user watch catalog default 600-900 g; conservative upper bound",
+      "confidence": "medium",
+      "risk_note": "not buyer-visible marketing copy",
+      "confirmation_required": true
+    },
+    "package_dimensions_cm": {
+      "value": {
+        "length": 30,
+        "width": 15,
+        "height": 10
+      },
+      "status": "estimated",
+      "estimate_basis": "watch with retail packaging",
+      "confidence": "medium",
+      "risk_note": "must be rechecked if packaging changes",
+      "confirmation_required": true
+    },
+    "domestic_shipping_cny": {
+      "value": 0,
+      "status": "estimated",
+      "estimate_basis": "user inventory rule",
+      "confidence": "high",
+      "risk_note": "internal calculation only",
+      "confirmation_required": false
+    }
+  },
+  "unknown_fields": [
+    "dial",
+    "case",
+    "strap",
+    "glass"
+  ],
+  "evidence": {
+    "description_sha256": "69ec3e36c7691ff2765397b80895fdbd6c758c3bd4a9977252e8ebdbdd99a26e",
+    "images": [
+      {
+        "file": "1.jpg",
+        "sha256": "cf99f6b322ed8d38eee4480e9dcee31fd414175daba7cb93a6d7b9116230ab51",
+        "byte_size": 182099,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": true,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00513/1.jpg"
+      },
+      {
+        "file": "2.jpg",
+        "sha256": "3e839c33f564b3db95c418150cd2fa4137fdfaa0e2b14d22c44d7c93e0eec474",
+        "byte_size": 199393,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00513/2.jpg"
+      },
+      {
+        "file": "3.jpg",
+        "sha256": "3cb4f98fa932ee2d36d3e05fe1d7892e605449248ca24180e0a679027a5fb562",
+        "byte_size": 186074,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00513/3.jpg"
+      },
+      {
+        "file": "4.jpg",
+        "sha256": "3d62f3f78bba606f18f5b25646ce68ddb927ec8073a51db029f9ee68a3268562",
+        "byte_size": 184768,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00513/4.jpg"
+      },
+      {
+        "file": "5.jpg",
+        "sha256": "0282a2913e0c915348aaf31c3d2edcf149537cdaf19ca1ea05bb6bf5b723a46c",
+        "byte_size": 164501,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00513/5.jpg"
+      },
+      {
+        "file": "6.jpg",
+        "sha256": "074c2fc1af3658fafc6f8d3b4ab533cf6e45ad234a109939a24b64503e6e7b90",
+        "byte_size": 196993,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00513/6.jpg"
+      },
+      {
+        "file": "7.jpg",
+        "sha256": "630d77b9976ad4a0396be1e2e0c6f5d37a12392b29cd69f731284d456c68b602",
+        "byte_size": 137760,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00513/7.jpg"
+      },
+      {
+        "file": "8.jpg",
+        "sha256": "d3f31a063dd203146778d7bca8ddaedb9712f58a38d63d24bfbb7956279a4575",
+        "byte_size": 179065,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00513/8.jpg"
+      },
+      {
+        "file": "9.jpg",
+        "sha256": "6af066ea21d77ab274a5cd82e82316e21a7da3483322e88b75b7f2998f6be026",
+        "byte_size": 119509,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/panerai/00513/9.jpg"
+      }
+    ]
+  }
+}

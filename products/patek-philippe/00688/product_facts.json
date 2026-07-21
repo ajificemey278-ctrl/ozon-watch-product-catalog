@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "patek-philippe-00688",
+  "source_sku_id": "00688",
+  "candidate_sku_key": "patek-philippe-00688",
+  "single_sku_lock": {
+    "model": "WT-00688",
+    "color": [],
+    "quantity": 1,
+    "status": "confirmed"
+  },
+  "source_brand_folder": "百达翡丽 手表",
+  "offer_id": "WT-PATEK-PHILIPPE-00688",
+  "facts": {
+    "model": {
+      "value": "WT-00688",
+      "status": "estimated",
+      "evidence": "description_or_catalog_sku"
+    },
+    "color": {
+      "value": [],
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "gender": {
+      "value": [
+        "мужские",
+        "женские"
+      ],
+      "dictionary_value_ids": [
+        22880,
+        22881
+      ],
+      "status": "estimated",
+      "evidence": "description_or_diameter"
+    },
+    "movement": {
+      "value": "механический с автоподзаводом",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "display": {
+      "value": "аналоговый",
+      "status": "confirmed",
+      "evidence": "description_or_watch_default"
+    },
+    "dial": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "case": {
+      "value": "нержавеющая сталь",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "strap": {
+      "value": "нержавеющая сталь",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "glass": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "water_resistance": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "case_diameter_mm": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "quantity": {
+      "value": 1,
+      "status": "confirmed",
+      "evidence": "one_sku_one_watch_contract"
+    },
+    "package_contents": {
+      "value": "часы и комплект упаковки",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "organization_brand": {
+      "value": "Patek Philippe",
+      "status": "confirmed",
+      "evidence": "source_brand_folder"
+    }
+  },
+  "estimated_facts": {
+    "packaged_weight_g": {
+      "value": 900,
+      "status": "estimated",
+      "estimate_basis": "user watch catalog default 600-900 g; conservative upper bound",
+      "confidence": "medium",
+      "risk_note": "not buyer-visible marketing copy",
+      "confirmation_required": true
+    },
+    "package_dimensions_cm": {
+      "value": {
+        "length": 30,
+        "width": 15,
+        "height": 10
+      },
+      "status": "estimated",
+      "estimate_basis": "watch with retail packaging",
+      "confidence": "medium",
+      "risk_note": "must be rechecked if packaging changes",
+      "confirmation_required": true
+    },
+    "domestic_shipping_cny": {
+      "value": 0,
+      "status": "estimated",
+      "estimate_basis": "user inventory rule",
+      "confidence": "high",
+      "risk_note": "internal calculation only",
+      "confirmation_required": false
+    }
+  },
+  "unknown_fields": [
+    "color",
+    "dial",
+    "glass",
+    "water_resistance",
+    "case_diameter_mm"
+  ],
+  "evidence": {
+    "description_sha256": "49bde57543a7000c0d35b5107860c55f25ce14750b6556cf2aa3d252265a4066",
+    "images": [
+      {
+        "file": "1.jpg",
+        "sha256": "121f3dc3742e9e33a8d83094d0ae06f0884d0d170457d7e1d5313035a9117ee1",
+        "byte_size": 474210,
+        "width": 1284,
+        "height": 2778,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": true,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/patek-philippe/00688/1.jpg"
+      },
+      {
+        "file": "2.jpg",
+        "sha256": "bc667b1f33e29e179869fa5e8e143a008eed4f60c1b9c46da30b8b75542b2ca9",
+        "byte_size": 99706,
+        "width": 800,
+        "height": 800,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/patek-philippe/00688/2.jpg"
+      },
+      {
+        "file": "3.jpg",
+        "sha256": "76fdbaf54f4fe50b7bb42f3627a7c4110d4d7b271959d003fc044bcb7622c54e",
+        "byte_size": 587515,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/patek-philippe/00688/3.jpg"
+      },
+      {
+        "file": "4.jpg",
+        "sha256": "cd193534cb49662c9dad9522a41f7b12377f905d38e2333d63085a41cdc050a9",
+        "byte_size": 606966,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/patek-philippe/00688/4.jpg"
+      },
+      {
+        "file": "5.jpg",
+        "sha256": "410c906ff951167455cd14f61c3ab80bc8e77201e96f5481be010db41c148f2c",
+        "byte_size": 574352,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/patek-philippe/00688/5.jpg"
+      },
+      {
+        "file": "6.jpg",
+        "sha256": "a8beac6c4ede28840e49f9b3846e230f2862961ae02da8f5102ff5f7df6b9a96",
+        "byte_size": 619724,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/patek-philippe/00688/6.jpg"
+      },
+      {
+        "file": "7.jpg",
+        "sha256": "9b89ef9cd30ce93a7ca035e1b5ec0b815a8d9082b4915d84e6706374a990df0d",
+        "byte_size": 403590,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/patek-philippe/00688/7.jpg"
+      },
+      {
+        "file": "8.jpg",
+        "sha256": "108d0b6b374ac67df462abce7e7d9781a015838b9201abca76abab5d46229bae",
+        "byte_size": 588330,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/patek-philippe/00688/8.jpg"
+      },
+      {
+        "file": "9.jpg",
+        "sha256": "ad9d4a07935632ba7b6bbf92e43629bf1688b6142e1e0b40a14586c76bb9d9ed",
+        "byte_size": 596998,
+        "width": 1440,
+        "height": 1440,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/patek-philippe/00688/9.jpg"
+      }
+    ]
+  }
+}
