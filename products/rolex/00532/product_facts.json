@@ -1,0 +1,237 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "rolex-00532",
+  "source_sku_id": "00532",
+  "candidate_sku_key": "rolex-00532",
+  "single_sku_lock": {
+    "model": "WT-00532",
+    "color": [
+      "синий"
+    ],
+    "quantity": 1,
+    "status": "confirmed"
+  },
+  "source_brand_folder": "Rolex劳力士",
+  "offer_id": "WT-ROLEX-00532",
+  "facts": {
+    "model": {
+      "value": "WT-00532",
+      "status": "estimated",
+      "evidence": "description_or_catalog_sku"
+    },
+    "color": {
+      "value": [
+        "синий"
+      ],
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "gender": {
+      "value": [
+        "мужские",
+        "женские"
+      ],
+      "dictionary_value_ids": [
+        22880,
+        22881
+      ],
+      "status": "estimated",
+      "evidence": "description_or_diameter"
+    },
+    "movement": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "display": {
+      "value": "аналоговый",
+      "status": "confirmed",
+      "evidence": "description_or_watch_default"
+    },
+    "dial": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "case": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "strap": {
+      "value": "нержавеющая сталь",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "glass": {
+      "value": "сапфировое",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "water_resistance": {
+      "value": "41 M",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "case_diameter_mm": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "quantity": {
+      "value": 1,
+      "status": "confirmed",
+      "evidence": "one_sku_one_watch_contract"
+    },
+    "package_contents": {
+      "value": "часы",
+      "status": "estimated",
+      "evidence": "description"
+    },
+    "organization_brand": {
+      "value": "Rolex",
+      "status": "confirmed",
+      "evidence": "source_brand_folder"
+    }
+  },
+  "estimated_facts": {
+    "packaged_weight_g": {
+      "value": 900,
+      "status": "estimated",
+      "estimate_basis": "user watch catalog default 600-900 g; conservative upper bound",
+      "confidence": "medium",
+      "risk_note": "not buyer-visible marketing copy",
+      "confirmation_required": true
+    },
+    "package_dimensions_cm": {
+      "value": {
+        "length": 30,
+        "width": 15,
+        "height": 10
+      },
+      "status": "estimated",
+      "estimate_basis": "watch with retail packaging",
+      "confidence": "medium",
+      "risk_note": "must be rechecked if packaging changes",
+      "confirmation_required": true
+    },
+    "domestic_shipping_cny": {
+      "value": 0,
+      "status": "estimated",
+      "estimate_basis": "user inventory rule",
+      "confidence": "high",
+      "risk_note": "internal calculation only",
+      "confirmation_required": false
+    }
+  },
+  "unknown_fields": [
+    "movement",
+    "dial",
+    "case",
+    "case_diameter_mm"
+  ],
+  "evidence": {
+    "description_sha256": "fbb9cbf1b4a541f6fede45aebafe089b6004c02ced94d06bbb86779156b78478",
+    "images": [
+      {
+        "file": "1.jpg",
+        "sha256": "7e2252fefa83dd1ce23771d486ca413a685bd281df67cc858731c91d05e51785",
+        "byte_size": 375838,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": true,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/rolex/00532/1.jpg"
+      },
+      {
+        "file": "2.jpg",
+        "sha256": "8de906e4da15e007d5a355cb82916d0038bcf3f8c29fc7afd4f1fe4a1dcf4dfb",
+        "byte_size": 349237,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/rolex/00532/2.jpg"
+      },
+      {
+        "file": "3.jpg",
+        "sha256": "8018a95a9dfb49c3a98f6ae82700c433636254513fb88fcace4fc6103cc05ee6",
+        "byte_size": 334536,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/rolex/00532/3.jpg"
+      },
+      {
+        "file": "4.jpg",
+        "sha256": "9c25a61d18ceb38bfaf13201a4721a232e3ba671ce302ba9595002b7b24c0205",
+        "byte_size": 294855,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/rolex/00532/4.jpg"
+      },
+      {
+        "file": "5.jpg",
+        "sha256": "ac34a93ec89851464e28fcb10e57515273387642b81eaff512daae11aeadfe61",
+        "byte_size": 208506,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/rolex/00532/5.jpg"
+      },
+      {
+        "file": "6.jpg",
+        "sha256": "ffddf2905f434ad53db7c0baa05fcc3caacbcc6312062d51b2686eb6dcab4a4b",
+        "byte_size": 236571,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/rolex/00532/6.jpg"
+      },
+      {
+        "file": "7.jpg",
+        "sha256": "a751d93623e1a303ac9e33c884fe3933c9cf9684f6a2deb6fbf85e41bd6e176a",
+        "byte_size": 290962,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/rolex/00532/7.jpg"
+      },
+      {
+        "file": "8.jpg",
+        "sha256": "77cec9dfb8967980efccb223a7645cda7e647c91aba7d28eaac4bb9fefd4b29f",
+        "byte_size": 344015,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/rolex/00532/8.jpg"
+      },
+      {
+        "file": "9.jpg",
+        "sha256": "fb4d0d599eb9b1cc3112a6ab1f2218b06256982e076e5c1ab2d3479695f3a5d0",
+        "byte_size": 486249,
+        "width": 1080,
+        "height": 810,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/rolex/00532/9.jpg"
+      }
+    ]
+  }
+}
