@@ -1,0 +1,219 @@
+{
+  "schema_version": "1.0",
+  "catalog_key": "tissot-00242",
+  "source_sku_id": "00242",
+  "candidate_sku_key": "tissot-00242",
+  "single_sku_lock": {
+    "model": "WT-00242",
+    "color": [],
+    "quantity": 1,
+    "status": "confirmed"
+  },
+  "source_brand_folder": "TISSOT天梭",
+  "offer_id": "WT-TISSOT-00242",
+  "facts": {
+    "model": {
+      "value": "WT-00242",
+      "status": "estimated",
+      "evidence": "description_or_catalog_sku"
+    },
+    "color": {
+      "value": [],
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "gender": {
+      "value": [
+        "мужские"
+      ],
+      "dictionary_value_ids": [
+        22880
+      ],
+      "status": "estimated",
+      "evidence": "description_or_diameter"
+    },
+    "movement": {
+      "value": "кварцевый",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "display": {
+      "value": "аналоговый",
+      "status": "confirmed",
+      "evidence": "description_or_watch_default"
+    },
+    "dial": {
+      "value": "прямоугольная",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "case": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "strap": {
+      "value": null,
+      "status": "missing_noncritical",
+      "evidence": "description"
+    },
+    "glass": {
+      "value": "сапфировое",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "water_resistance": {
+      "value": "100 米",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "case_diameter_mm": {
+      "value": 40.0,
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "quantity": {
+      "value": 1,
+      "status": "confirmed",
+      "evidence": "one_sku_one_watch_contract"
+    },
+    "package_contents": {
+      "value": "часы и комплект упаковки",
+      "status": "confirmed",
+      "evidence": "description"
+    },
+    "organization_brand": {
+      "value": "TISSOT",
+      "status": "confirmed",
+      "evidence": "source_brand_folder"
+    }
+  },
+  "estimated_facts": {
+    "packaged_weight_g": {
+      "value": 900,
+      "status": "estimated",
+      "estimate_basis": "user watch catalog default 600-900 g; conservative upper bound",
+      "confidence": "medium",
+      "risk_note": "not buyer-visible marketing copy",
+      "confirmation_required": true
+    },
+    "package_dimensions_cm": {
+      "value": {
+        "length": 30,
+        "width": 15,
+        "height": 10
+      },
+      "status": "estimated",
+      "estimate_basis": "watch with retail packaging",
+      "confidence": "medium",
+      "risk_note": "must be rechecked if packaging changes",
+      "confirmation_required": true
+    },
+    "domestic_shipping_cny": {
+      "value": 0,
+      "status": "estimated",
+      "estimate_basis": "user inventory rule",
+      "confidence": "high",
+      "risk_note": "internal calculation only",
+      "confirmation_required": false
+    }
+  },
+  "unknown_fields": [
+    "color",
+    "case",
+    "strap"
+  ],
+  "evidence": {
+    "description_sha256": "34370df223eb31abec5e5cfdd31a62ddfc5b239df340fae74d2464ec50fdbca4",
+    "images": [
+      {
+        "file": "1.jpg",
+        "sha256": "0b66da14d3a7f3b547cd8b2d9978e72c87532d136bd9f5d40cd37296bcbb0b10",
+        "byte_size": 331028,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": true,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/tissot/00242/1.jpg"
+      },
+      {
+        "file": "2.jpg",
+        "sha256": "43f7b976a75cbcfc46e7a0c9023426f5430c1f6975b5dd7eee1b1d2a79bd63d4",
+        "byte_size": 393713,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/tissot/00242/2.jpg"
+      },
+      {
+        "file": "3.jpg",
+        "sha256": "850795939eadd4aff48b03f68b8817431d186e8d851842cf84d236a0c205b2b6",
+        "byte_size": 288049,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/tissot/00242/3.jpg"
+      },
+      {
+        "file": "4.jpg",
+        "sha256": "d5ad6455582df502d896547b021cb8053f846ae72a4a94d2d9ccd64fcd367f5d",
+        "byte_size": 349876,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/tissot/00242/4.jpg"
+      },
+      {
+        "file": "5.jpg",
+        "sha256": "396998f6b7ab22d5d90e2e15587e66265e793670f21ac35f641c9fc03ea8079c",
+        "byte_size": 387803,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/tissot/00242/5.jpg"
+      },
+      {
+        "file": "6.jpg",
+        "sha256": "82c44f48f55f8b3a391f7a134146ae2b76bb08b599f9820c730f553f1a01500a",
+        "byte_size": 321652,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/tissot/00242/6.jpg"
+      },
+      {
+        "file": "7.jpg",
+        "sha256": "849dfcb12d1bed8d4221be2814bcf54e83c15f46a5e91e5cf240f430cfa7bc5f",
+        "byte_size": 345488,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/tissot/00242/7.jpg"
+      },
+      {
+        "file": "8.jpg",
+        "sha256": "be5d3f0d15de66f2f0e147cf60be6909b394924c1651e560f637194227c2e08a",
+        "byte_size": 331179,
+        "width": 1080,
+        "height": 1080,
+        "format": "jpg",
+        "status": "confirmed",
+        "is_main": false,
+        "public_url": "https://raw.githubusercontent.com/ajificemey278-ctrl/ozon-watch-product-catalog/main/products/tissot/00242/8.jpg"
+      }
+    ]
+  }
+}
